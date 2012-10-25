@@ -32,7 +32,7 @@
 			<div class="navbar">
 				<div class="navbar-inner">
 					<div class="container">
-						<a class="brand" href="/">{logo}</a>
+						<a class="brand" href="{link path="/"}">{logo}</a>
 						{searchbox}
 						<ul class="nav">
 							<!-- {dashboard_link} -->
